@@ -28,9 +28,14 @@ Die wichtigste Datei zuerst: [conf/act.ini](./conf/act.ini).
 
 ### act.ini
 
-### static
+Viele Sachen können über die act.ini konfiguriert werden.
 
-### 
+ * Registration
+ * Call for Papers
+ * Preise
+ * Räume
+
+### static
 
 ## eigenes Layout
 
