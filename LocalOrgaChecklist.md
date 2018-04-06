@@ -41,6 +41,8 @@
 
 ## Sonstige Vorbereitungen
 
+* Namensschilder
+
 ## Webseite
 
 Auf der Webseite sollten alle Neuigkeiten auftauchen und alle wichtigen Informationen. Mehr Infos zur Pflege der Webseite unter [ActKurzeinfuehrung](./ActKurzeinfuehrung.md)
