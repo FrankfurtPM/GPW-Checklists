@@ -39,9 +39,16 @@
   * Nicht genügend Sitzplätze für alle
   * Stehtische
 
+## Sponsorensuche
+
+* Bisherige Sponsoren ansprechen (Frankfurt.pm sammelt Kontaktdaten)
+* Nach Unternehmen vor Ort suchen, die "irgendwas" mit Perl machen
+
 ## Sonstige Vorbereitungen
 
 * Namensschilder
+* Journalisten einladen
+* lokale Unis/Hochschulen informieren (Sonderkonditionen für Studenten)
 
 ## Webseite
 
@@ -65,4 +72,4 @@ Auf XING sollte eine "Veranstaltung" für die Perl-Gruppe erstellt werden.
 
 Ankündigung auf Meetup
 
-Weitere Webseiten: Perlmonks, perl-community.de
+Weitere Webseiten: Perlmonks, perl-community.de, ...
