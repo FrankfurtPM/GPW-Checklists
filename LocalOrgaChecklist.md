@@ -6,6 +6,10 @@
 * Platz für Registrierung
 * Platz für Catering
 * Möglichst gute Anbindung von Unterkünften
+* Technische Ausstattung klären
+  * VGA? HDMI?
+  * Sind ggf. Adapter vorhanden?
+  * Ton/Mikros
 
 ## Verpflegung
 
@@ -47,6 +51,13 @@
 ## Sonstige Vorbereitungen
 
 * Namensschilder
+  * Lanyards (sind ggf. vorhanden, einfach nachfragen)
+  * Einsteckhüllen (sind ggf. vorhanden, einfach nachfragen)
+* T-Shirts
+* ggf. Taschen (wenn nicht anderweitig vorhanden und wenn Inhalt vorhanden ist)
+* Videoaufnahmen
+* Hinweisschilder (Räume, Richtungsweiser, ...)
+* Müllsäcke
 * Journalisten einladen
 * lokale Unis/Hochschulen informieren (Sonderkonditionen für Studenten)
 
