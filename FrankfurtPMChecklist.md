@@ -7,6 +7,7 @@
 ## kurzfristig im Voraus
 
 * Veranstaltungsversicherung abschließen
+* nächsten Ausrichter suchen
 
 ## Workshop
 
