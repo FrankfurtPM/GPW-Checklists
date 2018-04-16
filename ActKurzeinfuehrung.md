@@ -37,6 +37,24 @@ Viele Sachen können über die act.ini konfiguriert werden.
 
 ### static
 
+In diesem Verzeichnis liegen die Texte, die auf den Webseiten sichtbar
+werden.  Es sind HTML-Blöcke, die vom
+[Template::Toolkit](https://metacpan.org/pod/Template::Toolkit)
+verwendet werden.  Die erste und letzte Zeile müssen also erhalten
+bleiben!
+
+Die Zweisprachigkeit der Texte wird über Fake-HTML-Elemente `t` in den
+Seiten organisiert, die überall stehen können, wo in HTML Texte
+erlaubt sind:
+
+```txt
+<t>
+  <de>Deutscher Text</de>
+  <en>English text</en>
+</t>
+```
+
+
 ## eigenes Layout
 
 Für Act! wird die Template-Engine [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) verwendet.
@@ -44,3 +62,27 @@ Für Act! wird die Template-Engine [Template::Toolkit](https://metacpan.org/pod/
 ```txt
 Das ist noch ein TODO
 ```
+
+### CSS-Klassen für Styling
+
+Act! verwendet [Bootstrap](https://github.com/twbs/bootstrap) für CSS-Klassen, ergänzt um eigene Styles.
+Eine alphabetische Übersicht der Bootstrap-Klassen findet man bei [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp).
+Selbst definierte Klassen (in `wwwdocs/styles/base.css`)sind
+ * `conferencedata` - für zentrierten Block
+ * `span.conference` - für Block-Display
+ * `icon.envelope` - Briefumschlag-Emoji
+ * `clearfixafter` - Float-Elemente beenden (angelehnt an `clearfix` aus Bootstrap)
+ * `homelink` - optische Gimmicks
+Undefinierte Klassen: `dateaddon`, `what`, `where`, `when`, `email`, `newsblock`
+
+Das "Responsive Design" in `wwwdocs/styles/base.css` unterscheidet
+wie Bootstrap nach folgenden Bildschirmbreiten:
+ * **xs** <=767px (@screen-xs-max)
+ * **sm** 768px(@screen-sm-min) - 991px(@screen-sm-max)
+ * **md** 992px(@screen-md-min) - 1199px(@screen-md-max)
+ * **lg** >1200px(@screen-lg-min)
+Das ist allerdings in der Datei eingermaßen unübersichtlich angeordnet.
+
+...in `wwwdocs/styles/base.css` stehen am Ende noch einige Fragen, die
+vielleicht seit 2017 unbeantwortet sind... wohl weil sie niemand dort
+erwartet hätte.
