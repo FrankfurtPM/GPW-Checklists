@@ -25,8 +25,8 @@ Der Prozess läuft also wie folgt:
    2. `git commit` + `git push`
    3. Kaffee kochen
    4. Prüfen auf dem [Testserver](http://test.mongueurs.net/gpw2019/)
-   5. Falls nicht ok: goto 1, wenn alles in Ordnung: `git merge` in den Branch `production`
-   6. `git commit` + `git push`
+   5. Falls nicht ok: goto 1, wenn alles in Ordnung: `git rebase master` im Branch `production`
+   6. `git push origin production`
    7. Kaffee trinken
    8. Letzter Check auf der [offiziellen Webseite](http://act.yapc.eu/gpw2019/index.html)
 
