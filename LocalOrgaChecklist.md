@@ -11,6 +11,7 @@
 * Technische Ausstattung klären
   * VGA? HDMI?
   * Sind ggf. Adapter vorhanden?
+  * Werden Steckdosen Leisten/Mehrfachstecker benötigt?
   * Ton/Mikros
 
 ## Verpflegung
@@ -30,6 +31,7 @@ Denkt bitte auch an *vegetarier* und *veganer*!
   * Kuchenstückchen
   * Wenn Kaffee, Tee etc. selbst besorgt wird, bei Frankfurt.pm nachfragen
     was ggf. noch vorrätig ist (Teebeutel, Servietten, Zuckerportionen, Rührstäbchen, Servierplatten, ...)
+  * Getränke für die Vortragenden (Wasser mit/ohne Kohlensäure)
 
 ### Mittagessen
 
@@ -71,6 +73,8 @@ In der Regel gehen die Teilnehmer in umliegende Restaurants o.ä. zum Mittagesse
 * Namensschilder
   * Lanyards (sind ggf. vorhanden, einfach nachfragen)
   * Einsteckhüllen (sind ggf. vorhanden, einfach nachfragen)
+    * Bei den Einsteckhüllen  "prüfen" ob sie im Hoch- oder Querformat vorliegen, und dann die Namensschilder entsprechned erstellen
+  * Namensschilder wenn möglich beidseitig bedrucken, den Namen und den Nicknamen so groß drucken, das er auch aus 2-3 m Entfernung gelesen werden kann
 * T-Shirts
 * ggf. Taschen (wenn nicht anderweitig vorhanden und wenn Inhalt vorhanden ist)
 * Videoaufnahmen
