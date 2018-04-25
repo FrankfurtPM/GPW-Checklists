@@ -13,6 +13,7 @@
   * Sind ggf. Adapter vorhanden?
   * Werden Steckdosen Leisten/Mehrfachstecker benötigt?
   * Ton/Mikros
+* Mindestens ein Raum sollte duch die Orga abschließbar sein
 
 ## Verpflegung
 
@@ -75,6 +76,7 @@ In der Regel gehen die Teilnehmer in umliegende Restaurants o.ä. zum Mittagesse
   * Einsteckhüllen (sind ggf. vorhanden, einfach nachfragen)
     * Bei den Einsteckhüllen  "prüfen" ob sie im Hoch- oder Querformat vorliegen, und dann die Namensschilder entsprechned erstellen
   * Namensschilder wenn möglich beidseitig bedrucken, den Namen und den Nicknamen so groß drucken, das er auch aus 2-3 m Entfernung gelesen werden kann
+    * die Luxus Variante wäre eine Version die duplex gedruckt wird, aber trotzdem gefaltet wird. Dort auf den AUssenseiten jeweils den Namen, und Innen z.B. einen Lageplan der Venue, Restaurants, "Notfall" Nummern, ...
 * T-Shirts
 * ggf. Taschen (wenn nicht anderweitig vorhanden und wenn Inhalt vorhanden ist)
 * Videoaufnahmen
