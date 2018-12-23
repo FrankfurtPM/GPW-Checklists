@@ -5,11 +5,22 @@
 * Großer Raum für ca 100 Personen
 * Platz für Registrierung
 * Platz für Catering
+  * klären, ob Catering frei gewählt werden kann
+  * oder Catering von Venue genommen werden muss
 * Möglichst gute Anbindung von Unterkünften
+* Technische Ausstattung klären
+  * VGA? HDMI?
+  * Sind ggf. Adapter vorhanden?
+  * Werden Steckdosen Leisten/Mehrfachstecker benötigt?
+  * Ton/Mikros
+* Mindestens ein Raum sollte duch die Orga abschließbar sein
 
 ## Verpflegung
 
+Denkt bitte auch an *vegetarier* und *veganer*!
+
 * Catering vor Ort
+* Mittagessen
 * Social Event
 * Pre-Conference Meeting
 
@@ -21,6 +32,14 @@
   * Kuchenstückchen
   * Wenn Kaffee, Tee etc. selbst besorgt wird, bei Frankfurt.pm nachfragen
     was ggf. noch vorrätig ist (Teebeutel, Servietten, Zuckerportionen, Rührstäbchen, Servierplatten, ...)
+  * Getränke für die Vortragenden (Wasser mit/ohne Kohlensäure)
+
+### Mittagessen
+
+In der Regel gehen die Teilnehmer in umliegende Restaurants o.ä. zum Mittagessen.
+
+* Bei Uni/Hochschule klären, ob Mensa mitgenutzt werden kann.
+* Liste mit Möglichkeiten in der Umgebung erstellen
 
 ### Pre-Conference Meeting
 
@@ -38,10 +57,36 @@
 * Platzwechsel sollte gefördert werden
   * Nicht genügend Sitzplätze für alle
   * Stehtische
+* Wie kommt man hin?
+  * Öffentliche Verkehrsmittel?
+  * in unmittelbarer Nähe?
+  * Muss Bus o.ä. angemietet werden?
+* Auch hier bitte an *VegetarierInnen* und *VeganerInnen* denken
+
+## Sponsorensuche
+
+* Überlegt euch, welche Sponsorenpakete ihr machen wollt. Alte Sponsorenpakete sind auf den alten Act!-Seiten zu finden
+* Bisherige Sponsoren ansprechen (Frankfurt.pm sammelt Kontaktdaten)
+* Nach Unternehmen vor Ort suchen, die "irgendwas" mit Perl machen
 
 ## Sonstige Vorbereitungen
 
 * Namensschilder
+  * Lanyards (sind ggf. vorhanden, einfach nachfragen)
+  * Einsteckhüllen (sind ggf. vorhanden, einfach nachfragen)
+    * Bei den Einsteckhüllen  "prüfen" ob sie im Hoch- oder Querformat vorliegen, und dann die Namensschilder entsprechned erstellen
+  * Namensschilder wenn möglich beidseitig bedrucken, den Namen und den Nicknamen so groß drucken, das er auch aus 2-3 m Entfernung gelesen werden kann
+    * die Luxus Variante wäre eine Version die duplex gedruckt wird, aber trotzdem gefaltet wird. Dort auf den AUssenseiten jeweils den Namen, und Innen z.B. einen Lageplan der Venue, Restaurants, "Notfall" Nummern, ...
+* T-Shirts
+* ggf. Taschen (wenn nicht anderweitig vorhanden und wenn Inhalt vorhanden ist)
+* Videoaufnahmen
+* Wunschteilnehmer (z.B. für Keynotes) ansprechen
+  * Ggf. Sponsoren suchen um die Person(en) einzuladen
+* Hinweisschilder (Räume, Richtungsweiser, ...)
+* Müllsäcke
+* Journalisten einladen
+* lokale Unis/Hochschulen informieren (Sonderkonditionen für Studenten)
+* Hinweise an die Vortragenden, Folien bitte auf Englisch zu machen
 
 ## Webseite
 
@@ -65,4 +110,4 @@ Auf XING sollte eine "Veranstaltung" für die Perl-Gruppe erstellt werden.
 
 Ankündigung auf Meetup
 
-Weitere Webseiten: Perlmonks, perl-community.de
+Weitere Webseiten: Perlmonks, perl-community.de, ...
