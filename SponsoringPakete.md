@@ -34,3 +34,37 @@ Beispiele für Individuelle Optionen, die ganz oder teilweise gesponsort bzw. ar
  * vom Sponsor gestellte Goodies für die Konferenztaschen (Schreibblock, Stift, ...)
  * ein Hackathon (zu einem bestimmten Thema) vor oder nach der Konferenz (Dienstag oder Samstag)
 
+2017
+====
+
+
+#### ab 200 EUR
+
+mit einer Kurzbeschreibung des Unternehmens/der Organisation auf der Webseite. Ein Flyer kommt in die Konferenztasche.
+
+#### ab 350 EUR
+
+Plakat(e) am Veranstaltungsort (Foyer)
+
+#### ab 500 EUR
+
+Plakat im Vortragsraum. Der Sponsor wird nach Vertragsabschluss in einer der Ankündigungen auf www.perl-community.de und blogs.perl.org genannt.
+
+#### ab 1000 EUR
+
+ganzseitige Anzeige, ein kostenloses Konferenzticket. Infostand im Vorraum des Konferenzraumes (nur eine begrenzte Anzahl an Plätzen verfügbar!).
+
+#### ab 5000 EUR
+
+einen dreisekündigen Promotionclip vor jeder einzelnen Vortragsaufzeichnung (werden online gestellt).
+
+Individuelle Optionen, die ganz oder teilweise gesponsort bzw. arrangiert werden können:
+
+ * Ein Raum (Vortragsraum, Vorraum, Seminarraum), der mit dem Banner des Sponsors ausgestattet wird
+ * Das Social Event (gemeinsames Abendessen am Donnerstag)
+ * Catering (Kaffeepausen, Snacks, Mittagessen)
+ * vom Sponsor gestellte Schlüsselbänder für die Befestigung der Teilnehmer-Namensschilder
+ * vom Sponsor gestellte Konferenztaschen
+ * vom Sponsor gestellte Goodies für die Konferenztaschen (Schreibblock, Stift, ...)
+ * Platz, um Infos über Firma/Organisation auszulegen
+
