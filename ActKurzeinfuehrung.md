@@ -61,6 +61,13 @@ Viele Sachen können über die act.ini konfiguriert werden.
  * Preise
  * Räume
 
+### Änderungen in der act.ini
+
+  * Nach erstellen des Repositories: Überall sollte die Jahreszahl angepasst werden
+  * Wenn Datum feststeht: unter `[talks]` sollte das `start_date` und `end_date` angepasst werden
+  * Bei Livestellung der Webseite: Die Möglichkeit, Vortragsvorschläge einzureichen sollte gleich aktiviert werden (`submission_open` auf 1 setzen)
+  * Wenn Veranstaltungsort feststeht: Räume und Raumbezeichnungen eintragen, ggf. Preise anpassen
+
 ### static
 
 In diesem Verzeichnis liegen die Texte, die auf den Webseiten sichtbar
@@ -80,6 +87,7 @@ erlaubt sind:
 </t>
 ```
 
+Wenn das Repository existiert, müssen alle statischen Dateien durchgegangen werden und Einträge von alten Perl-Workshops entfernt bzw. ausgeblendet werden.
 
 ## eigenes Layout
 
@@ -114,3 +122,15 @@ Das ist allerdings in der Datei eingermaßen unübersichtlich angeordnet.
 ...in `wwwdocs/styles/base.css` stehen am Ende noch einige Fragen, die
 vielleicht seit 2017 unbeantwortet sind... wohl weil sie niemand dort
 erwartet hätte.
+
+### Anzupassende Templates
+
+* Sobald das Repository existiert
+
+In `/actdocs/templates/ui` muss für das vorangegangene Jahr ein Eintrag im Dropdown (select mit id="archiv") gemacht werden, so dass man auch zu früheren Deutschen Perl-Workshops springen kann.
+
+In `/actdocs/templates/payment/invoice` muss das Jahr angepasst werden
+
+* Sobald der Veranstaltungsort feststeht
+
+In `/actdocs/templates/event/show` müssen die Geodaten des Veranstaltungsortes eingetragen werden
