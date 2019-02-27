@@ -2,7 +2,7 @@
 
 ## Initialisierung
 
-Seit 2009 wird für die Organisation des Deutschen Perl-Workshops die Software [Act!](http://act.mongueurs.net/).
+Seit 2009 wird für die Organisation des Deutschen Perl-Workshops die Software [Act!](http://act.mongueurs.net/) genutzt.
 Die Instanz wird von den französischen Perlmongers verwaltet, die lokale Orga füllt die Seite "nur" mit Inhalten.
 
 Das Anfordern der Instanz übernimmt Frankfurt.pm, in der Regel macht das Renée (wenn nicht, einfach anstubsen).
@@ -33,18 +33,25 @@ Der Prozess läuft also wie folgt:
 
 ## Inhalt des Repository
 
+-> [Act-Manual](http://act.mongueurs.net/doc/Manual/Organizer/Layout.html)
+
 Im Repository gibt es zwei Ordner:
 
 * actdocs
 * wwwdocs
 
-Fangen wir mit dem Einfachen an. Das sind die Dateien in wwwdocs. Darin werden die statischen Dateien abgelegt.
+## wwwdocs
+
+Fangen wir mit dem Einfachen an. Das sind die Dateien in wwwdocs. Darin werden die statischen Dateien abgelegt, die vom Webserver unverändert durchgereicht werden:
+Bilder (`images`), JavaScript-Bibliotheken (`scripts`) und Stylesheets (`styles`).
 Wir benutzen seit Jahren das selbe Layout. Wenn ihr das ebenfalls verwenden wollt, ist nur der Unterordner images
 interessant um dort bspw. die Logos der Sponsoren abzulegen.
 
 Wenn ihr ein eigenes Layout machen wollt, dann werden hier auch JavaScript-Dateien und CSS abgelegt.
 
 Zum eigenen Layout später mehr.
+
+*FIXME:* Die Datei `wwwdocs/styles/bronx-in-style.css` wird nicht verwendet und referenziert ein nicht (mehr) existierendes Bild `images/caravan-2048x400.jpeg`.
 
 ## actdocs
 
@@ -56,10 +63,10 @@ Die wichtigste Datei zuerst: [conf/act.ini](./conf/act.ini).
 
 Viele Sachen können über die act.ini konfiguriert werden.
 
- * Registration
- * Call for Papers
+ * Registration: Abschnitt '[registration]', Wert 'open' 
+ * Call for Papers: Wert 'submissions_open'
  * Preise
- * Räume
+ * Räume: Abschnitt '[rooms]', von der lokalen Orga zu befüllen
 
 ### Änderungen in der act.ini
 
@@ -71,14 +78,14 @@ Viele Sachen können über die act.ini konfiguriert werden.
 ### static
 
 In diesem Verzeichnis liegen die Texte, die auf den Webseiten sichtbar
-werden.  Diese Texte sind HTML-Blöcke, die Act mit dem
-[Template::Toolkit](https://metacpan.org/pod/Template::Toolkit)
-weiter verarbeitet.  Die erste und letzte Zeile müssen also erhalten
-bleiben!
+werden, als Dateien mit der Endung `.html`.  Diese Texte sind
+HTML-Blöcke, die Act mit dem
+[Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) (TT) weiter
+verarbeitet.  Die erste und letzte Zeile müssen also erhalten bleiben!
 
 Die Zweisprachigkeit der Texte wird über Fake-HTML-Elemente `t` in den
 Seiten organisiert, die überall stehen können, wo in HTML Texte
-erlaubt sind:
+erlaubt sind, aber auch in Attributen von HTML-Elementen:
 
 ```txt
 <t>
@@ -123,7 +130,17 @@ Das ist allerdings in der Datei eingermaßen unübersichtlich angeordnet.
 vielleicht seit 2017 unbeantwortet sind... wohl weil sie niemand dort
 erwartet hätte.
 
-### Anzupassende Templates
+
+### templates
+
+-> [Act Manual](http://act.mongueurs.net/doc/Manual/Organizer/Templates.html)
+
+Hier liegen die Templates für TT.  Das "Master-Template" ist die Datei
+`ui`.  Sowohl die statischen als auch die dynamisch von Act
+generierten Seiten verwenden dies als Rahmen um den eigentlichen
+Inhalt, der anstelle der TT-Variablen `[% content %]` eingefügt wird.
+
+#### Anzupassende Templates
 
 * Sobald das Repository existiert
 
