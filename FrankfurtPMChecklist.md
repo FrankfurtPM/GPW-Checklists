@@ -18,3 +18,4 @@
   * Verlängerungskabel/Mehrfachsteckdosen
   * Gong
   * Namensschilder
+  * Adapter
