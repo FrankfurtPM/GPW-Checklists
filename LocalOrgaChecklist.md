@@ -81,6 +81,7 @@ Beim GPW2019 in München gab es Mittags Suppe. Das war praktisch. Die meisten ge
   * Namensschilder wenn möglich beidseitig bedrucken, den Namen und den Nicknamen so groß drucken, das er auch aus 2-3 m Entfernung gelesen werden kann
     * die Luxus Variante wäre eine Version die duplex gedruckt wird, aber trotzdem gefaltet wird. Dort auf den AUssenseiten jeweils den Namen, und Innen z.B. einen Lageplan der Venue, Restaurants, "Notfall" Nummern, ...
   * [Eine nette Erläuterung wie Badges aussehen sollten](https://badge.reviews/10-rules-for-a-better-conference-name-badge/) (2019 haben wir für diese Art der Namensschilder einiges an Lob bekommen)
+  * [Aktuelles Skript zum Generieren der Badges](https://github.com/FrankfurtPM/GPW-scripts/tree/master/badge)
 * T-Shirts
 * ggf. Taschen (wenn nicht anderweitig vorhanden und wenn Inhalt vorhanden ist)
 * Videoaufnahmen
