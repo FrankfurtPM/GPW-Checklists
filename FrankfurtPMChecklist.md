@@ -8,6 +8,7 @@
 
 * Veranstaltungsversicherung abschließen
 * nächsten Ausrichter suchen
+* Video-Kit bei EPO anfragen (Lee)
 
 ## Workshop
 
@@ -15,3 +16,5 @@
   * Zeitschilder
   * ggf. Sachen fürs Catering (z.B. Zucker, Tee, Rührstäbchen, ...)
   * Verlängerungskabel/Mehrfachsteckdosen
+  * Gong
+  * Namensschilder
