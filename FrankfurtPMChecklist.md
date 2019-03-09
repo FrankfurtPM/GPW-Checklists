@@ -24,3 +24,4 @@
   * Gong
   * Namensschilder
   * Adapter
+  * Model Release für Sprecher bei Videoaufzeichnung drucken
