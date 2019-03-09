@@ -9,6 +9,11 @@
 * Veranstaltungsversicherung abschließen
 * nächsten Ausrichter suchen
 * Video-Kit bei EPO anfragen (Lee)
+* Video-Kit 2 organisieren
+  * Videokamera mit Mic-In (Wieland)
+  * Rechner (Max)
+  * Video-Capture Karten (Max)
+  * Funkmikrofon (Max)
 
 ## Workshop
 
