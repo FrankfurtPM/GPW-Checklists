@@ -151,3 +151,44 @@ In `/actdocs/templates/payment/invoice` muss das Jahr angepasst werden
 * Sobald der Veranstaltungsort feststeht
 
 In `/actdocs/templates/event/show` müssen die Geodaten des Veranstaltungsortes eingetragen werden
+
+
+## Die "dynamischen" Seiten: Wiki, News, Events, ...
+
+Neben dem statischen Inhalt, der aus dem Repository bedient wird, gibt
+es auch Inhalte, die "live" in die Datenbank eingepflegt und aus
+dieser auch geliefert werden: Neben den Vorträgen sind das das Wiki,
+die News und die Events.
+
+### Die Vorträge
+
+Registrierte Nutzer können Vorträge einreichen, und das Orga-Team
+(genauer: Nutzer mit `talks_admin`-Berechtigung) kann diese annehmen
+und bearbeiten.  Über die "edit"-Funktion werden auch der Raum und der
+Termin für den Vortrag festgelegt und sind danach im Programm
+sichtbar.
+
+### Das Wiki
+
+Im Wiki (URL z.B. https://act.yapc.eu/gpw2019/wiki) können alle
+angemeldeten Teilnehmer Inhalte nach Lust und Laune pflegen.
+
+Es gibt leider keinen News-Feed für das Wiki.  Eine redaktionelle
+Prüfung kann aber über die "Recent changes"
+(https://act.yapc.eu/gpw2019/wiki?action=recent) durchgeführt werden.
+
+### Die News
+
+Die News sind kurze, zweisprachig angelegte Artikel, die das Orga-Team
+(genauer: Nutzer mit `news_admin`-Berechtigung) erzeugen kann.  Für
+publizierte News wird ein Feed über die URLs
+https://act.yapc.eu/gpw2019/atom/de.xml und
+https://act.yapc.eu/gpw2019/atom/en.xml bereitgestellt.
+
+### Die Events
+
+Events sind "Ereignisse" mit Datum, Uhrzeit und Ort, und sie werden
+zusammen mit den Vorträgen im Programm angezeigt.  Auf diesem Weg
+sollten auch Termin und Ort für Registrierung, Vorabend-Meeting und
+Social Event eingetragen werden, sonst sind sie im Programm nicht
+sichtbar!
