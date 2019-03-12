@@ -14,6 +14,9 @@
   * Werden Steckdosen Leisten/Mehrfachstecker benötigt?
   * Ton/Mikros
 * Mindestens ein Raum sollte duch die Orga abschließbar sein
+* Erfahrungswert aus München (2019): Einen Monat vor der Veranstaltung
+  hatten sich erst 60 von 80 Teilnehmern angemeldet. Man braucht also
+  etwas "Luft nach oben" (gilt auch für das Catering und Social Event).
 
 ## Verpflegung
 
@@ -47,6 +50,10 @@ Beim GPW2019 in München gab es Mittags Suppe. Das war praktisch. Die meisten ge
 
 * Teilnehmer zahlen Essen und Getränke selbst
 * Lokalität für ca 75% der angemeldeten Teilnehmer
+  * Teilnehmer können sich traditionell im Wiki für das Pre-Conference
+    Meeting eintragen.  Schnappschuss aus München 2019: Eine Woche vor
+    der Veranstaltung hatten sich 16 Leute eingetragen, gekommen sind
+    34 (von insgesamt 80 gemeldeten Workshop-Teilnehmern).
 * Reservieren, vorwarnen, dass ggf. etwas mehr getrunken wird
 * Nicht zu weit von den Unterkünften entfernt, um Fahrerei zu vermeiden
 
