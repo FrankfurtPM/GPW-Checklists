@@ -1,5 +1,27 @@
 # Sponsoren ab 2010
 
+## 2021 Leipzig
+
+## 2020 Erlangen
+
+* Friedrich-Alexander-Universität (Mitveranstalter)
+* United Domains
+* Geizhals
+* Perl-Services.de
+* dpunkt.verlag
+* genua GmbH
+* Edument
+* System Verification SVG Germany GmbH
+
+## 2019 München
+
+* Geizhals
+* Edument
+* Perl Academy
+* genua
+* United Domains
+* Materna
+
 ## 2018 Gummersbach (Köln)
 Ansprechpartner: Niederrhein.pm (Jens & Roland)
 Sponsoren:
